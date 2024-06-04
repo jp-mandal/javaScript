@@ -1,0 +1,11 @@
+.cl{
+    height: 200px;
+    width: 200px;
+    background-color: aquamarine;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    margin: 10px;
+    justify-content: center;
+    border: 2px solid red;
+}
